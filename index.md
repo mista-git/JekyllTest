@@ -29,6 +29,11 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
 
+## Vlozena sekce
+- bod 1
+- Bod 2
+
+
 ## Examples
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
